@@ -1,0 +1,2 @@
+# IJDB
+Internet Joke Database
